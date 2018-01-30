@@ -1,0 +1,9 @@
+{{inline-component-string
+  (t "Hello! Please follow {|link:this other|} link")
+  link=(component 'link-string' href=(if (eq i18n.locale 'en') "//google.com" "//google.fr"))
+}}
+<br>
+<button class="button"
+  {{action (mut i18n.locale) (if (eq i18n.locale 'en') 'fr' 'en')}}>
+  Switch Languages
+</button>

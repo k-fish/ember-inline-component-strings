@@ -1,0 +1,36 @@
+body {
+  background: #fdfdfd;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.centered {
+  padding: 3rem;
+  width: 100%;
+}
+
+.content {
+  padding: 6rem;
+  background: white;
+}
+
+article {
+  padding-top: 4rem;
+}
+
+section {
+  padding-top: 1rem;
+}
+
+.link {
+  color: blue;
+  display: inline-block;
+}
+
+.container code {
+  white-space: pre-wrap;
+}

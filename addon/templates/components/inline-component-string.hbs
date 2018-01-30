@@ -1,0 +1,9 @@
+{{#each stringParts as |part|}}
+  {{~#if part.name~}}
+    {{~#component (get context part.name)~}}
+      {{~part.key~}}
+    {{~/component~}}
+  {{~else~}}
+    {{~part~}}
+  {{~/if~}}
+{{/each}}
