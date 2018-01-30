@@ -1,6 +1,6 @@
 # ember-inline-component-strings
 
-This README outlines the details of collaborating on this Ember addon.
+See [the github pages](https://k-fish.github.io/ember-inline-component-strings/) for more info.
 
 ## Installation
 
