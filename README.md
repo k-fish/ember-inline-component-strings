@@ -1,11 +1,11 @@
-# ember-contextual-component-strings
+# ember-inline-component-strings
 
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-contextual-component-strings`
+* `cd ember-inline-component-strings`
 * `npm install`
 
 ## Running
