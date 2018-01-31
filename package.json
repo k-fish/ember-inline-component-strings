@@ -1,6 +1,6 @@
 {
   "name": "ember-inline-component-strings",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple addon to allow inlining components into strings.",
   "keywords": [
     "ember-addon"
