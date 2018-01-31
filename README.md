@@ -1,4 +1,4 @@
-# ember-inline-component-strings [![Build Status](https://travis-ci.org/k-fish/ember-inline-component-strings.svg?branch=master)](https://travis-ci.org/k-fish/ember-inline-component-strings) [![Greenkeeper badge](https://badges.greenkeeper.io/k-fish/ember-inline-component-strings.svg)](https://greenkeeper.io/)
+# ember-inline-component-strings [![Build Status](https://travis-ci.org/k-fish/ember-inline-component-strings.svg?branch=master)](https://travis-ci.org/k-fish/ember-inline-component-strings) [![Maintainability](https://api.codeclimate.com/v1/badges/ead670116292934c3da6/maintainability)](https://codeclimate.com/github/k-fish/ember-inline-component-strings/maintainability) [![Greenkeeper badge](https://badges.greenkeeper.io/k-fish/ember-inline-component-strings.svg)](https://greenkeeper.io/)
 
 ⚠️ *This is currently an in-development addon, and may not be actively maintained. Use with care.*
 
