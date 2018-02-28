@@ -1,4 +1,7 @@
 /* eslint-env node */
+const childProcess = require('child_process');
+const { execSync } = childProcess;
+
 module.exports = {
   message: "Release %@",
   publish: true,
@@ -10,6 +13,6 @@ module.exports = {
 
 function runCommand(command) {
   console.log(`Running: ${command}`);
-  const output = execSync(command, { encoding: 'utf8' });
+  const output = execSync(command, { encoding: 'utf8', stdio:[0,1,2] });
   console.log(output);
 }
