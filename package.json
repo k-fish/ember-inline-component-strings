@@ -45,7 +45,7 @@
     "ember-export-application-global": "^2.0.0",
     "ember-get-config": "^0.2.4",
     "ember-i18n": "^5.1.0",
-    "ember-load-initializers": "^1.0.0",
+    "ember-load-initializers": "^2.1.1",
     "ember-resolver": "^4.0.0",
     "ember-scroll-to": "^0.6.4",
     "ember-source": "~2.18.0",
